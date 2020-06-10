@@ -4,7 +4,6 @@ Using genetic algorithm to solve a variant of team game optimization problem in 
 
 
 ## Problem Description:
-_____________
 
 Given N tasks each having some points and M team members, time matrix, skills required for each task, skills possessed by each member, and total time limit T for each member, find the assignment of tasks to members such that points scored are maximized. 
 
@@ -53,7 +52,6 @@ We use random resetting where each gene in a chromosome is given a chance to mut
 <br>
 
 ## Instructions to run:
-_____________
 
 The project consists of two stages:
 
@@ -95,7 +93,6 @@ python ga.py
 ```
 
 ## Output:
-_____________
 
 Example output 1:
 
